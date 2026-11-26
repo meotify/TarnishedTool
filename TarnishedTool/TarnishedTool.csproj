@@ -370,6 +370,7 @@
         <Compile Include="Utilities\FreeCamInputController.cs" />
         <Compile Include="Utilities\HotkeyManager.cs" />
         <Compile Include="Utilities\MsgBox.cs" />
+        <Compile Include="Utilities\OptionPersistenceManager.cs" />
         <Compile Include="Utilities\SearchExtensions.cs" />
         <Compile Include="Utilities\SettingsManager.cs" />
         <Compile Include="Utilities\UpDownHelper.cs" />
